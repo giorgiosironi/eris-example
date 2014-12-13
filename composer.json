@@ -1,0 +1,14 @@
+{
+    "name": "giorgiosironi/eris-example",
+    "description": "This is a sample project to test the installation of Eris through Composer.",
+    "require": {
+        "giorgiosironi/eris": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Giorgio Sironi",
+            "email": "info@giorgiosironi.com"
+        }
+    ]
+}
